@@ -1,0 +1,1 @@
+Wanas is a human companionship service for seniors, designed to reduce loneliness and improve quality of life through genuine presence, daily care, and continuous communication that reassures families and brings comfort to loved ones.

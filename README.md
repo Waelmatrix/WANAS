@@ -63,9 +63,22 @@ The Figures: The larger and smaller circles symbolize the guidance, togetherness
 </div>
 
 * **Variations Included:** Primary Full Logo, Icon-only, and Black/White.
-  <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/logo%20B%20W_Wanas%20White.png?raw=true" width="300" height="300" alt="Wans Logo">
-  <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/logo%20B%20W_Wanas%20New%20Black.png?raw=true" width="300" height="300" alt="Wans Logo">
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/logo%20B%20W_Wanas%20White.png?raw=true" width="200" alt="White Logo">
+        <br>
+        <strong>Primary / White Logo</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/logo%20B%20W_Wanas%20New%20Black.png?raw=true" width="200" alt="Black Logo">
+        <br>
+        <strong>Monochrome / Black Logo</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 * 
 * **Logo Misuse (Don'ts):**

@@ -16,7 +16,7 @@ A comprehensive strategic design system and brand identity built on human connec
 قصتنا بدأت لما لاحظنا إن أكبر مشكلة بتواجه أهالينا مش بس التعب الجسدي، لكن«الوحدة. ومن هنا جه أسم «ونس».
 في ونس.. الحكاية مش مجرد خدمة، الحكاية بدأت من قلب كل بيت. شفنا الشوق في عينين الأبناء، والوحدة في بيوت الأهالي.. فقررنا نكون الجسر. اخترنا رفقاء بقلوب رحيمة، مدربين مش بس على الرعاية، لكن على فن الونس والمشاركة. 
 في ونس، بنرجع الضحكة للأماكن، ونعيد الذاكرة للحياة.
-.
+
 * **Vision:** To provide respectful and trusted companionship for seniors inside and outside the home while enabling families to stay reassured through continuous updates and care.
 * **Mission:** To become the leading companion and human support service for seniors in the Arab world.
 * **Core Values:**

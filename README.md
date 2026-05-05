@@ -21,22 +21,17 @@ A comprehensive strategic design system and brand identity built on human connec
 * **Vision:** To provide respectful and trusted companionship for seniors inside and outside the home while enabling families to stay reassured through continuous updates and care.
 * **Mission:** To become the leading companion and human support service for seniors in the Arab world.
 * **Core Values:**
-* Trust: 
-We build relationships based on endless trust
-* Companionship: 
-We value being together and supporting each other.
-* Warmth:
-We bring kindness and care into every interaction.
+  * Trust:  We build relationships based on endless trust
+  * Companionship:  We value being together and supporting each other.
+  * Warmth: We bring kindness and care into every interaction.
 * **Tone of Voice:** Warm & Reassuring:
-Family-like, comforting words that ease worries.
+  * Family-like, comforting words that ease worries.
 
-Respectful & Dignified:
-Honor elders, never imply weakness.
+  * Respectful & Dignified: Honor elders, never imply weakness.
 
-Honest & Genuine: 
-Simple, sincere language without jargon.
+  * Honest & Genuine:  Simple, sincere language without jargon.
 
-Professional & Responsible: 
+  * Professional & Responsible: Accurate, safe, building Endless Trust.
 
 ---
 

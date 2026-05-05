@@ -23,7 +23,7 @@ A comprehensive strategic design system and brand identity built on human connec
     <img src="https://img.shields.io/badge/Download-Design_Guidelines-E0A96D?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Guidelines">
   </a>
 </div>
----
+
 
 
 

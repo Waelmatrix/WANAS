@@ -1,34 +1,60 @@
-# 🌟 Wans (ونس)
+#  Wans (ونس) — Brand Identity & Design System
 
-Welcome to the **Wans** repository! This project is an artistic and branding identity centered around companionship, trust, and beautiful human connections. 
-
-Wanas is a human companionship service for seniors, designed to reduce loneliness and improve quality of life through genuine presence, daily care, and continuous communication that reassures families and brings comfort to loved ones.
+A comprehensive strategic design system and brand identity built on human connection, warmth, and cinematic storytelling.
 
 ---
 
-## 📖 About the Project
-**Wans** is a comprehensive design project that aims to foster a sense of warmth, intimacy, and connection between generations through shared memories and human moments. The project’s visual identity combines authentic warmth with a modern, welcoming atmosphere.
+## < https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png " width="35" height="35" align="absmiddle"> 📖 1. Introduction
 
-## 🎨 Branding Guidelines
+* **Our Story:** Wans fosters intimacy, connection, and generational warmth through shared memories and human moments.
+* **Vision:** To bridge generations and evoke trust and deep human connections.
+* **Mission:** Providing an organized, cinematic, and warm visual identity that reflects authenticity and comfort.
+* **Tone of Voice:** Warm, reassuring, authentic, and welcoming.
 
-- **Pronunciation:** Wans (with an open "Waw" / fatha).
-- **Color Palette:** - Warm, inviting tones reflecting natural light and sunsets (warm woods, soft beiges).
-- **Artistic Style:** - Clean Line Art.
-  - Double Exposure photography for visual storytelling.
-  - Geometric patterns and ogee motifs that are organized and visually soothing.
+---
 
-## 🚀 Key Features
+## < https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png " width="35" height="35" align="absmiddle">   2. Logo System
 
-- **Visual Storytelling:** Cinematic lighting and imagery that evoke trust and companionship.
-- **Versatility:** Designs optimized for both digital platforms and physical print (menus, retail, and print ads).
-- **Cultural Identity:** Blends modern minimalism with warm Egyptian heritage.
+* **Concept & Grid System:** Designed using precise geometric grid systems and the Golden Ratio/Ogee motifs to reflect stability and warmth.
+* **Safe Area:** Always leave a margin of $1\times$ (where $x$ is the logo's main width proportion) around the logo to protect its integrity.
+* **Variations Included:** Primary Full Logo, Vertical/Horizontal layouts, Icon-only, and Black/White.
+* **Logo Misuse (Don'ts):**
+  * Do not stretch or alter proportions.
+  * Do not change the original colors.
+  * Do not place on busy or low-contrast backgrounds.
 
-## 🛠️ Repository Contents
+---
 
-This repository contains the foundational design assets and narrative guidelines for the brand:
-1. **Brand Identity & Logo Concepts:** Minimalist and strategic UI/graphic design principles.
-2. **Visual Narratives:** Concepts depicting comforting relationships (parents, children, and daily companionship).
-3. **Marketing & Print Materials:** Templates designed for freelance portfolio displays and campaigns.
+## < https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png " width="35" height="35" align="absmiddle">   3. Color Palette & Patterns
 
-## 📜 License
+Our colors reflect natural sunlight and sunset to evoke trust and companionship.
+
+| Color | Hex | RGB | CMYK |
+| :--- | :--- | :--- | :--- |
+| **Primary Warmth** | `#E0A96D` | 224, 169, 109 | 7, 31, 64, 0 |
+| **Brand Teal** | `#84B0B9` | 132, 176, 185 | 45, 12, 17, 0 |
+| **Deep Charcoal** | `#1A2A2D` | 26, 42, 45 | 80, 60, 55, 60 |
+
+---
+
+## < https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png " width="35" height="35" align="absmiddle">   4. Typography Hierarchy
+
+Optimized for alignment between both Arabic and English:
+
+* **Headlines (Cairo Bold):** Used for primary titles and sections.
+* **Body Text (Inter Regular):** Neutral, modern typeface for clarity.
+* **CTA (Inter Medium):** Used for UI/UX buttons and highlights.
+
+---
+
+## < https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png " width="35" height="35" align="absmiddle">   5. Assets Delivery
+
+All brand files and guidelines are available in the repository folders:
+- **Vector Formats:** `.AI`, `.SVG`, `.PDF`
+- **Raster Formats:** `.PNG` (Transparent), `.JPG` (Mockups)
+
+---
+
+## < https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png " width="35" height="35" align="absmiddle">   6. License
+
 This project is licensed under the MIT License.

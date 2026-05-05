@@ -9,7 +9,7 @@ A comprehensive strategic design system and brand identity built on human connec
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle">  1. Introduction
+1. Introduction
 
 * **Our Story:** Wans is more than a service; it is a human companion that restores peace of mind for seniors and reassurance for their families.
 مش بـــــــــــــــــنقـدم رعـــــــــــــــــــــــــاية... بـــــــــــــنقدم حيــــــــــــــــــــــــــــــــــــــــــــــــــــاة.
@@ -35,8 +35,7 @@ A comprehensive strategic design system and brand identity built on human connec
   * «طمن قلبك عليهم.. إحنا في ونس مش بس بنقدم رعاية، إحنا بنقدم عين بتشيل، وقلب بيسمع، ورفيق يملى البيت ضحكة وحكايات.»
 
 ---
-
-## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle">  2. Logo System
+2. Logo System
 
 * **Sketch:**
 Logo Concept: The original hand-drawn sketch captures the initial exploration of merging human forms with geometric continuity.
@@ -89,7 +88,7 @@ The Figures: The larger and smaller circles symbolize the guidance, togetherness
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle">  3. Color Palette & Patterns
+3. Color Palette & Patterns
 
 <div align="center">
   <table>
@@ -107,15 +106,10 @@ The Figures: The larger and smaller circles symbolize the guidance, togetherness
     </tr>
   </table>
 </div>
-| Color | Hex | RGB | CMYK |
-| :--- | :--- | :--- | :--- |
-| **Primary Warmth** | `#E0A96D` | 224, 169, 109 | 7, 31, 64, 0 |
-| **Brand Teal** | `#84B0B9` | 132, 176, 185 | 45, 12, 17, 0 |
-| **Deep Charcoal** | `#1A2A2D` | 26, 42, 45 | 80, 60, 55, 60 |
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle">   4. Typography Hierarchy
+4. Typography Hierarchy
 
 Optimized for alignment between both Arabic and English:
 
@@ -125,7 +119,7 @@ Optimized for alignment between both Arabic and English:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle">  5. Assets Delivery
+5. Assets Delivery
 
 All brand files and guidelines are available in the repository folders:
 - **Vector Formats:** `.AI`, `.SVG`, `.PDF`
@@ -133,6 +127,6 @@ All brand files and guidelines are available in the repository folders:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle"> 6. License
+6. License
 
 This project is licensed under the DEPI License.

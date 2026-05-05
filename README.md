@@ -17,7 +17,15 @@ A comprehensive strategic design system and brand identity built on human connec
   <a href="#6-assets-delivery--تسليم-الملفات"><strong>📂 Assets</strong></a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/Waelmatrix/WANAS/blob/main/brand%2007.pdf
+" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Design_Guidelines-E0A96D?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Guidelines">
+  </a>
+</div>
 ---
+
+
 
 ## 1. Introduction / المقدمة
 

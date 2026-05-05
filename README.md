@@ -121,7 +121,7 @@ Optimized for alignment between both Arabic and English:
 
 ---
 
-5. Assets Delivery
+## 5. Assets Delivery
 
 All brand files and guidelines are available in the repository folders:
 - **Vector Formats:** `.AI`, `.SVG`, `.PDF`

@@ -11,7 +11,13 @@ A comprehensive strategic design system and brand identity built on human connec
 
 ## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle">  1. Introduction
 
-* **Our Story:** WANAS fosters intimacy, connection, and generational warmth through shared memories and human moments.
+* **Our Story:** Wans is more than a service; it is a human companion that restores peace of mind for seniors and reassurance for their families.
+مش بـــــــــــــــــنقـدم رعـــــــــــــــــــــــــاية... بـــــــــــــنقدم حيــــــــــــــــــــــــــــــــــــــــــــــــــــاة.
+
+قصتنا بدأت لما لاحظنا إن أكبر مشكلة بتواجه أهالينا مش بس التعب الجسدي، لكن«الوحدة. ومن هنا جه أسم «ونس».
+في ونس.. الحكاية مش مجرد خدمة، الحكاية بدأت من قلب كل بيت. شفنا الشوق في عينين الأبناء، والوحدة في بيوت الأهالي.. فقررنا نكون الجسر. اخترنا رفقاء بقلوب رحيمة، مدربين مش بس على الرعاية، لكن على فن الونس والمشاركة. 
+في ونس، بنرجع الضحكة للأماكن، ونعيد الذاكرة للحياة.
+.
 * **Vision:** To bridge generations and evoke trust and deep human connections.
 * **Mission:** Providing an organized, cinematic, and warm visual identity that reflects authenticity and comfort.
 * **Tone of Voice:** Warm, reassuring, authentic, and welcoming.

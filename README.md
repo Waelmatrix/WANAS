@@ -1,9 +1,10 @@
-<div align="center" style="background-color: #1A2A2D; padding: 40px; border-radius: 12px;">
-  <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="300" height="300" alt="Wans Logo" style="background: transparent;">
+<div align="center">
+  <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png?raw=true" width="250" height="250" alt="Wans Logo">
   
-  <h1 style="color: #E0A96D; margin-top: 15px;">WANAS (ونس) — Brand Identity & Design System</h1>
-  <p style="color: #84B0B9; font-size: 16px;">A comprehensive strategic design system and brand identity built on human connection, warmth, and cinematic storytelling.</p>
+  # WANAS (ونس) — Brand Identity & Design System
 </div>
+
+A comprehensive strategic design system and brand identity built on human connection, warmth, and cinematic storytelling.
 
 ---
 
@@ -18,9 +19,7 @@
 
 ---
 
-<div style="color: #E6E8E9;">
-
-## <span style="color: #E0A96D;">1. Introduction / المقدمة</span>
+## 1. Introduction / المقدمة
 
 * **Our Story / قصتنا:** Wans is more than a service; it is a human companion that restores peace of mind for seniors and reassurance for their families.
   > *"We do not just offer care... we offer life."*
@@ -45,7 +44,7 @@
 
 ---
 
-## <span style="color: #E0A96D;">2. Logo System / نظام الشعار</span>
+## 2. Logo System / نظام الشعار
 
 * **Sketch / الرسم الأولي:**
 The original hand-drawn sketch captures the initial exploration of merging human forms with geometric continuity. It shows how two distinct figures—representing a senior and a companion—were thoughtfully aligned to form the infinity symbol.
@@ -81,12 +80,12 @@ Inspired by human connection and continuity, the logo combines the infinity symb
       <td align="center">
         <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/logo%20B%20W_Wanas%20White.png?raw=true" width="200" alt="White Logo">
         <br>
-        <strong style="color: #84B0B9;">Primary / White Logo</strong>
+        <strong>Primary / White Logo</strong>
       </td>
       <td align="center">
         <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/logo%20B%20W_Wanas%20New%20Black.png?raw=true" width="200" alt="Black Logo">
         <br>
-        <strong style="color: #84B0B9;">Monochrome / Black Logo</strong>
+        <strong>Monochrome / Black Logo</strong>
       </td>
     </tr>
   </table>
@@ -99,7 +98,7 @@ Inspired by human connection and continuity, the logo combines the infinity symb
 
 ---
 
-## <span style="color: #E0A96D;">3. Color Palette & Patterns / لوحة الألوان والأنماط</span>
+## 3. Color Palette & Patterns / لوحة الألوان والأنماط
 
 <div align="center">
   <table>
@@ -107,12 +106,12 @@ Inspired by human connection and continuity, the logo combines the infinity symb
       <td align="center">
         <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/Color%20Pallete/main%20Color%20pallete.png?raw=true" width="300" alt="Main Color Palette">
         <br>
-        <em style="color: #84B0B9;">Main Color Palette</em>
+        <em>Main Color Palette</em>
       </td>
       <td align="center">
         <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/Color%20Pallete/color%20pallete.png?raw=true" width="400" alt="Secondary Color Palette">
         <br>
-        <em style="color: #84B0B9;">Secondary & Tints Palette</em>
+        <em>Secondary & Tints Palette</em>
       </td>
     </tr>
   </table>
@@ -120,7 +119,7 @@ Inspired by human connection and continuity, the logo combines the infinity symb
 
 ---
 
-## <span style="color: #E0A96D;">4. Typography Hierarchy / التسلسل الهرمي للخطوط</span>
+## 4. Typography Hierarchy / التسلسل الهرمي للخطوط
 
 - **Main Font:** Cairo
 - **Secondary Font:** Tajawal
@@ -132,7 +131,7 @@ Optimized for alignment between both Arabic and English:
 
 ---
 
-## <span style="color: #E0A96D;">5. Meet Our Team / فريق العمل</span>
+## 5. Meet Our Team / فريق العمل
 
 Meet the minds and creative team behind the strategic brand identity of **Wans**:
 
@@ -145,7 +144,7 @@ Meet the minds and creative team behind the strategic brand identity of **Wans**
 
 ---
 
-## <span style="color: #E0A96D;">6. Assets Delivery / تسليم الملفات</span>
+## 6. Assets Delivery / تسليم الملفات
 
 All brand files and guidelines are available in the repository folders:
 - **Vector Formats:** `.AI`, `.SVG`, `.PDF`
@@ -153,9 +152,7 @@ All brand files and guidelines are available in the repository folders:
 
 ---
 
-## <span style="color: #E0A96D;">📜 License / الترخيص</span>
+## 📜 License / الترخيص
 
 This project is developed as a graduation project for the Digital Egypt Pioneers Initiative (DEPI) - Round 4. 
 All rights reserved © 2026.
-
-</div>

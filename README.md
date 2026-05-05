@@ -91,8 +91,22 @@ The Figures: The larger and smaller circles symbolize the guidance, togetherness
 
 ## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle">  3. Color Palette & Patterns
 
-Our colors reflect natural sunlight and sunset to evoke trust and companionship.
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/Color%20Pallete/main%20Color%20pallete.png?raw=true" width="400" alt="Main Color Palette">
+        <br>
+        <em>Main Color Palette</em>
+      </td>
+      <td align="center">
+        <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/Color%20Pallete/color%20pallete.png?raw=true" width="400" alt="Secondary Color Palette">
+        <br>
+        <em>Secondary & Tints Palette</em>
+      </td>
+    </tr>
+  </table>
+</div>
 | Color | Hex | RGB | CMYK |
 | :--- | :--- | :--- | :--- |
 | **Primary Warmth** | `#E0A96D` | 224, 169, 109 | 7, 31, 64, 0 |

@@ -38,6 +38,9 @@ A comprehensive strategic design system and brand identity built on human connec
 * **Sketch:**
 Logo Concept: The original hand-drawn sketch captures the initial exploration of merging human forms with geometric continuity.
 Visual Evolution: It shows how two distinct figures—representing a senior and a companion—were thoughtfully aligned to form the infinity symbol.
+<div align="center">
+  <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/sketch.png?raw=true" width="600" height="500" alt="Wans Logo">
+</div>
 
 * **Logo Concept:**
 Inspired by human connection and continuity, the logo combines the infinity symbol to reflect uninterrupted safety and boundless trust, with linking elements that represent the deep, ongoing bond between seniors and companions, emphasizing endless support and companionship.

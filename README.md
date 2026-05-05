@@ -18,9 +18,25 @@ A comprehensive strategic design system and brand identity built on human connec
 في ونس.. الحكاية مش مجرد خدمة، الحكاية بدأت من قلب كل بيت. شفنا الشوق في عينين الأبناء، والوحدة في بيوت الأهالي.. فقررنا نكون الجسر. اخترنا رفقاء بقلوب رحيمة، مدربين مش بس على الرعاية، لكن على فن الونس والمشاركة. 
 في ونس، بنرجع الضحكة للأماكن، ونعيد الذاكرة للحياة.
 .
-* **Vision:** To bridge generations and evoke trust and deep human connections.
-* **Mission:** Providing an organized, cinematic, and warm visual identity that reflects authenticity and comfort.
-* **Tone of Voice:** Warm, reassuring, authentic, and welcoming.
+* **Vision:** To provide respectful and trusted companionship for seniors inside and outside the home while enabling families to stay reassured through continuous updates and care.
+* **Mission:** To become the leading companion and human support service for seniors in the Arab world.
+* **Core Values:**
+* Trust: 
+We build relationships based on endless trust
+* Companionship: 
+We value being together and supporting each other.
+* Warmth:
+We bring kindness and care into every interaction.
+* **Tone of Voice:** Warm & Reassuring:
+Family-like, comforting words that ease worries.
+
+Respectful & Dignified:
+Honor elders, never imply weakness.
+
+Honest & Genuine: 
+Simple, sincere language without jargon.
+
+Professional & Responsible: 
 
 ---
 

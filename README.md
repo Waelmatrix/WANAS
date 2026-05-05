@@ -46,16 +46,17 @@ Visual Evolution: It shows how two distinct figures—representing a senior and 
 * **Logo Concept:**
 Inspired by human connection and continuity, the logo combines the infinity symbol to reflect uninterrupted safety and boundless trust, with linking elements that represent the deep, ongoing bond between seniors and companions, emphasizing endless support and companionship.
 
-
-The Infinity Loop: Represents the concept of «Endless Trust» and support that never stops.
-The Figures: The larger and smaller circles symbolize the guidance, togetherness, and care shared between the senior and the companion.
-
 * **Logo Progress:** The Infinity Loop: Represents the concept of «Endless Trust» and support that never stops.
 The Figures: The larger and smaller circles symbolize the guidance, togetherness, and care shared between the senior and the companion.
+
+
+
 * **Final Logo**
-* <div align="center">
+<div align="center">
   <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png?raw=true" width="500" height="500" alt="Wans Logo">
 </div>
+
+
 
 * **Clear space:**
 <div align="center">

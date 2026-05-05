@@ -1,4 +1,9 @@
-## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="50" height="50" align="absmiddle"> 🌟 Wans (ونس) — Brand Identity & Design System
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="120" height="120" alt="Wans Logo">
+  
+  # Wans (ونس) — Brand Identity & Design System
+</div>
+## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="50" height="50" align="absmiddle">  WANAS (ونس) — Brand Identity & Design System
 
 A comprehensive strategic design system and brand identity built on human connection, warmth, and cinematic storytelling.
 
@@ -6,7 +11,7 @@ A comprehensive strategic design system and brand identity built on human connec
 
 ## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle"> 📖 1. Introduction
 
-* **Our Story:** Wans fosters intimacy, connection, and generational warmth through shared memories and human moments.
+* **Our Story:** WANAS fosters intimacy, connection, and generational warmth through shared memories and human moments.
 * **Vision:** To bridge generations and evoke trust and deep human connections.
 * **Mission:** Providing an organized, cinematic, and warm visual identity that reflects authenticity and comfort.
 * **Tone of Voice:** Warm, reassuring, authentic, and welcoming.

@@ -8,7 +8,7 @@ A comprehensive strategic design system and brand identity built on human connec
 
 ---
 
-1. Introduction
+** 1. Introduction
 
 * **Our Story:** Wans is more than a service; it is a human companion that restores peace of mind for seniors and reassurance for their families.
 *  مش بـــــــــــــــــنقـدم رعـــــــــــــــــــــــــاية... بـــــــــــــنقدم حيــــــــــــــــــــــــــــــــــــــــــــــــــــاة.
@@ -33,7 +33,7 @@ A comprehensive strategic design system and brand identity built on human connec
   * «طمن قلبك عليهم.. إحنا في ونس مش بس بنقدم رعاية، إحنا بنقدم عين بتشيل، وقلب بيسمع، ورفيق يملى البيت ضحكة وحكايات.»
 
 ---
-2. Logo System
+** 2. Logo System
 
 * **Sketch:**
 Logo Concept: The original hand-drawn sketch captures the initial exploration of merging human forms with geometric continuity.
@@ -90,7 +90,7 @@ Inspired by human connection and continuity, the logo combines the infinity symb
 
 ---
 
-3. Color Palette & Patterns
+** 3. Color Palette & Patterns
 
 <div align="center">
   <table>
@@ -111,7 +111,7 @@ Inspired by human connection and continuity, the logo combines the infinity symb
 
 ---
 
-4. Typography Hierarchy
+** 4. Typography Hierarchy
 
 Optimized for alignment between both Arabic and English:
 

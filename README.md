@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="120" height="120" alt="Wans Logo">
+  <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="300" height="300" alt="Wans Logo">
   
   # WANAS (ونس) — Brand Identity & Design System
 </div>
@@ -80,7 +80,7 @@ The Figures: The larger and smaller circles symbolize the guidance, togetherness
   </table>
 </div>
 
-* 
+
 * **Logo Misuse (Don'ts):**
   * Do not stretch or alter proportions.
   * Do not change the original colors.

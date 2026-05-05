@@ -3,7 +3,7 @@
   
   # WANAS (ونس) — Brand Identity & Design System
 </div>
-<img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="50" height="50" align="absmiddle">  WANAS (ونس) — Brand Identity & Design System
+<img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="50" height="50" align="absmiddle">  
 
 A comprehensive strategic design system and brand identity built on human connection, warmth, and cinematic storytelling.
 

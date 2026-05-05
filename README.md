@@ -60,6 +60,6 @@ All brand files and guidelines are available in the repository folders:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle"> 📜 6. License
+## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle"> 6. License
 
-This project is licensed under the MIT License.
+This project is licensed under the DEPI License.

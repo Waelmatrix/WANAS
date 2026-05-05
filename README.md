@@ -57,10 +57,9 @@ The Figures: The larger and smaller circles symbolize the guidance, togetherness
 * 
 * **Clear space:**
 <div align="center">
-  <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/Wanas%20Clear%20space.png?raw=true" width="200" height="200" alt="Wans Logo">
+  <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/Wanas%20Clear%20space.png?raw=true" width="500" height="500" alt="Wans Logo">
 </div>
-* https://github.com/Waelmatrix/WANAS/blob/main/assets/Wanas%20Clear%20space.png?raw=true
-* 
+
 * **Variations Included:** Primary Full Logo, Icon-only, and Black/White.
 * 
 * **Logo Misuse (Don'ts):**

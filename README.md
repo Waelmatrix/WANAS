@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="120" height="120" alt="Wans Logo">
   
-  # Wans (ونس) — Brand Identity & Design System
+  # WANAS (ونس) — Brand Identity & Design System
 </div>
 ## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="50" height="50" align="absmiddle">  WANAS (ونس) — Brand Identity & Design System
 

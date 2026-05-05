@@ -32,14 +32,33 @@ A comprehensive strategic design system and brand identity built on human connec
   * Honest & Genuine:  Simple, sincere language without jargon.
 
   * Professional & Responsible: Accurate, safe, building Endless Trust.
+  * «طمن قلبك عليهم.. إحنا في ونس مش بس بنقدم رعاية، إحنا بنقدم عين بتشيل، وقلب بيسمع، ورفيق يملى البيت ضحكة وحكايات.»
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle">  2. Logo System
 
-* **Concept & Grid System:** Designed using precise geometric grid systems and the Golden Ratio/Ogee motifs to reflect stability and warmth.
-* **Safe Area:** Always leave a margin of $1\times$ (where $x$ is the logo's main width proportion) around the logo to protect its integrity.
-* **Variations Included:** Primary Full Logo, Vertical/Horizontal layouts, Icon-only, and Black/White.
+* **Sketch:**
+Logo Concept: The original hand-drawn sketch captures the initial exploration of merging human forms with geometric continuity.
+Visual Evolution: It shows how two distinct figures—representing a senior and a companion—were thoughtfully aligned to form the infinity symbol.
+## <img src="https://raw.githubusercontent.com/Waelmatrix/WANAS/refs/heads/main/assets/logo.png" width="35" height="35" align="absmiddle">
+
+* **Logo Concept:**
+Inspired by human connection and continuity, the logo combines the infinity symbol to reflect uninterrupted safety and boundless trust, with linking elements that represent the deep, ongoing bond between seniors and companions, emphasizing endless support and companionship.
+
+
+The Infinity Loop: Represents the concept of «Endless Trust» and support that never stops.
+The Figures: The larger and smaller circles symbolize the guidance, togetherness, and care shared between the senior and the companion.
+
+* **Logo Progress:** The Infinity Loop: Represents the concept of «Endless Trust» and support that never stops.
+The Figures: The larger and smaller circles symbolize the guidance, togetherness, and care shared between the senior and the companion.
+* **Final Logo**
+
+* 
+* **Clear space:**
+* 
+* **Variations Included:** Primary Full Logo, Icon-only, and Black/White.
+* 
 * **Logo Misuse (Don'ts):**
   * Do not stretch or alter proportions.
   * Do not change the original colors.

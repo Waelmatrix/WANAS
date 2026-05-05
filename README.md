@@ -96,7 +96,7 @@ Inspired by human connection and continuity, the logo combines the infinity symb
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/Color%20Pallete/main%20Color%20pallete.png?raw=true" width="400" alt="Main Color Palette">
+        <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/Color%20Pallete/main%20Color%20pallete.png?raw=true" width="300" alt="Main Color Palette">
         <br>
         <em>Main Color Palette</em>
       </td>

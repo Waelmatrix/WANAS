@@ -113,8 +113,8 @@ Inspired by human connection and continuity, the logo combines the infinity symb
 
 
 ## 4. Typography Hierarchy
-**Main Font: Cairo.**
-**Secondary Font: Tajawal.**
+- **Main Font: Cairo.**
+- **Secondary Font: Tajawal.**
 Optimized for alignment between both Arabic and English:
 
 * **Headlines (Cairo Bold):** Used for primary titles and sections.

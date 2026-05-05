@@ -130,3 +130,17 @@ All brand files and guidelines are available in the repository folders:
 6. License
 
 This project is licensed under the DEPI License.
+---
+
+## 👥 Meet Our Team
+
+Meet the minds and creative team behind the strategic brand identity of **Wans**:
+
+| Name | Role | Portfolio / Contribution |
+| :--- | :--- | :--- |
+| **Wael Hefzy Eissa Gabra** | Project Lead & Brand Identity Specialist | Strategic Design, Branding, & Grid Systems |
+| **Mahmoud Kamal Kamel** | Creative Partner | Visual Storytelling & Asset Integration |
+| **Rana Ibrahim Mohamed** | Content & Strategy Consultant | Tone of Voice & Narrative Documentation |
+| **Saeda Mohamed Badwy** | UI/UX & Digital Implementation | Digital Platforms & Wayfinding Layouts |
+
+---

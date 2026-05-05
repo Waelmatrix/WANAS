@@ -9,10 +9,10 @@ A comprehensive strategic design system and brand identity built on human connec
 ---
 
 <p align="center">
-  <a href="#1-introduction--المقدمة"><strong>📖 Introduction</strong></a> &nbsp;•&nbsp;
-  <a href="#2-logo-system--نظام-الشعار"><strong>🎨 Logo System</strong></a> &nbsp;•&nbsp;
-  <a href="#3-color-palette--لوحة-الألوان-والأنماط"><strong>🌈 Color Palette</strong></a> &nbsp;•&nbsp;
-  <a href="#4-typography-hierarchy--التسلسل-الهرمي-للخطوط"><strong>📐 Typography</strong></a> &nbsp;•&nbsp;
+  <a href="#1-introduction--المقدمة"><strong> Introduction</strong></a> &nbsp;•&nbsp;
+  <a href="#2-logo-system--نظام-الشعار"><strong> Logo System</strong></a> &nbsp;•&nbsp;
+  <a href="#3-color-palette--لوحة-الألوان-والأنماط"><strong> Color Palette</strong></a> &nbsp;•&nbsp;
+  <a href="#4-typography-hierarchy--التسلسل-الهرمي-للخطوط"><strong> Typography</strong></a> &nbsp;•&nbsp;
   <a href="#5-meet-our-team--فريق-العمل"><strong>👥 Meet Our Team</strong></a> &nbsp;•&nbsp;
   <a href="#6-assets-delivery--تسليم-الملفات"><strong>📂 Assets</strong></a>
 </p>

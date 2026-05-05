@@ -53,8 +53,10 @@ The Figures: The larger and smaller circles symbolize the guidance, togetherness
 * **Logo Progress:** The Infinity Loop: Represents the concept of «Endless Trust» and support that never stops.
 The Figures: The larger and smaller circles symbolize the guidance, togetherness, and care shared between the senior and the companion.
 * **Final Logo**
+* <div align="center">
+  <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png?raw=true" width="500" height="500" alt="Wans Logo">
+</div>
 
-* 
 * **Clear space:**
 <div align="center">
   <img src="https://github.com/Waelmatrix/WANAS/blob/main/assets/Wanas%20Clear%20space.png?raw=true" width="500" height="500" alt="Wans Logo">

@@ -6,7 +6,7 @@
 
 A comprehensive strategic design system and brand identity built on human connection, warmth, and cinematic storytelling.
 
----
+
 
 <p align="center">
   <a href="#1-introduction--المقدمة"><strong> Introduction</strong></a> &nbsp;•&nbsp;

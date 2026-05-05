@@ -120,8 +120,8 @@ Optimized for alignment between both Arabic and English:
 * **Headlines (Cairo Bold):** Used for primary titles and sections.
 * **Body Text (Inter Regular):** Neutral, modern typeface for clarity.
 * **CTA (Inter Medium):** Used for UI/UX buttons and highlights.
-  
 **Secondary Font: Tajawal.**
+  
 ---
 
 ## 5. Assets Delivery

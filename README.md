@@ -121,7 +121,7 @@ Optimized for alignment between both Arabic and English:
 * **Body Text (Inter Regular):** Neutral, modern typeface for clarity.
 * **CTA (Inter Medium):** Used for UI/UX buttons and highlights.
   
-* **Secondary Font: Tajawal.**
+**Secondary Font: Tajawal.**
 ---
 
 ## 5. Assets Delivery

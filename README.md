@@ -4,7 +4,7 @@ A comprehensive strategic design system and brand identity built on human connec
 
 ---
 
-## < https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png " width="35" height="35" align="absmiddle"> 📖 1. Introduction
+## <[ https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png](https://github.com/Waelmatrix/WANAS/blob/main/assets/logo.png?raw=true) " width="35" height="35" align="absmiddle"> 📖 1. Introduction
 
 * **Our Story:** Wans fosters intimacy, connection, and generational warmth through shared memories and human moments.
 * **Vision:** To bridge generations and evoke trust and deep human connections.

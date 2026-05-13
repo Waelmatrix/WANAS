@@ -160,7 +160,7 @@ All brand files and guidelines are available in the repository folders:
 
 ---
 
-## 📜 License / الترخيص
+## 📜 License
 
 This project is developed as a graduation project for the Digital Egypt Pioneers Initiative (DEPI) - Round 4. 
 All rights reserved © 2026.

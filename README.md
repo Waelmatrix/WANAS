@@ -18,9 +18,9 @@ A comprehensive strategic design system and brand identity built on human connec
 </p>
 
 <div align="center">
-  <a href="https://github.com/Waelmatrix/WANAS/blob/main/brand%2007.pdf](https://github.com/Waelmatrix/WANAS/blob/main/Final%20wanas%20guideline.pdf
-" target="_blank">
-    <img src="https://img.shields.io/badge/Download-Design_Guidelines-E0A96D?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Guidelines">
+  <a href="https://github.com/Waelmatrix/WANAS/raw/main/Final%20wanas%20guideline.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Design_Guidelines-E0A96D?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" 
+         alt="Download Guidelines">
   </a>
 </div>
 
